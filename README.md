@@ -1,3 +1,5 @@
+![Olist E-Commerce Analytics](assets/olist-project-banner.png)
+
 # Olist E-Commerce Analytics
 
 An end-to-end data analytics project based on the Brazilian Olist E-Commerce dataset.
